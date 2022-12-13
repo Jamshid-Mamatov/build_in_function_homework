@@ -8,4 +8,4 @@ def main(n):
     Returns:
         float: the value of the expression
     """
-    return
+    return pow((n+2)/3,2)
